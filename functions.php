@@ -355,8 +355,8 @@ function generate_add_footer_info() {
 add_action( 'generate_copyright_line', 'generate_add_login_attribution' );
 function generate_add_login_attribution() {
 	?>
-	&#x000B7; <a href="<?php echo esc_url( 'http://generatepress.com' );?>" target="_blank"
-	             title="<?php _e( 'GeneratePress', 'generate' );?>"><?php _e( 'GeneratePress', 'generate' );?></a> &#x000B7;
+	&#x000B7; <a href="<?php echo esc_url('https://github.com/Talos4757/TalosPress'); ?>" target="_blank"
+				 title="<?php _e('TalosPress', 'generate'); ?>"><?php _e('TalosPress', 'generate'); ?></a> &#x000B7;
 	<a href="http://wordpress.org" target="_blank"
 	   title="<?php _e( 'Proudly powered by WordPress', 'generate' );?>"><?php _e( 'WordPress', 'generate' );?></a> &#x000B7;
 	<a href="https://www.jetbrains.com/idea/" target="_blank"
