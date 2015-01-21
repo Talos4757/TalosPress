@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="talos4757.org" uploadOnCheckin="6a7a1f1e-d037-4657-9baf-0d57f448098a">
+  <component name="PublishConfigData" serverName="talos4757.org" persistUploadOnCheckin="false">
     <serverData>
       <paths name="talos4757.org">
         <serverdata>
@@ -10,6 +10,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="talos4757.org" />
   </component>
 </project>

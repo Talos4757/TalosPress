@@ -1475,3 +1475,14 @@ footer.entry-meta {
     margin-bottom: 2em;
     margin-top: 0;
 }
+
+.center-div {
+    text-align: center;
+}
+
+.center-image {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px 0 10px;
+}
