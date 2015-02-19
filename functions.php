@@ -359,8 +359,8 @@ function generate_add_login_attribution() {
 				 title="<?php _e('TalosPress', 'generate'); ?>"><?php _e('TalosPress', 'generate'); ?></a> &#x000B7;
 	<a href="http://wordpress.org" target="_blank"
 	   title="<?php _e( 'Proudly powered by WordPress', 'generate' );?>"><?php _e( 'WordPress', 'generate' );?></a> &#x000B7;
-	<a href="https://www.jetbrains.com/idea/" target="_blank"
-	   title="<?php _e( 'Developed with IntelliJ IDEA', 'generate' );?>"><?php _e( 'Developed with IntelliJ IDEA', 'generate' );?></a>
+	<a href="http://talos4757.org/resources/website-information/" Target="_self"
+	   title="<?php _e( 'Website Information', 'generate' );?>"><?php _e( 'Website Information', 'generate' );?></a>
 <?php
 }
 
